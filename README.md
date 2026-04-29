@@ -27,5 +27,5 @@ Global Health Insights
 
 ![image alt](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/051752d6a57e7f37f2bd0bb8570ee4c8a6f0d90e/Screenshot%202026-04-29%20at%2023.11.56.png)
 
-![image alt]
+![image alt](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/ff9973123152c9b0ed992c8bac7f82ad4480ce67/Screenshot%202026-04-29%20at%2023.12.47.png)
 
