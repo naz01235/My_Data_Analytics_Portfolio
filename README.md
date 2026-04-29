@@ -14,6 +14,8 @@ Product Sales Analysis
 
 ![image alt](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/f4ac28a9877b104b09268382422198c50560fa95/Screenshot%202026-04-29%20at%2017.51.14.png)
 
+Cleaning Penguin database from null
+
 ![image alt](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/1933aad25307c0af24622b469c6a7887b3755782/Screenshot%202026-04-29%20at%2022.56.07.png)
 
 
