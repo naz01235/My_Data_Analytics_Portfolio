@@ -23,7 +23,7 @@ Cleaning Penguin database from null values
 
 ![image alt](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/9658711e617c3389297d9c3d62b6bf30b9632f9a/Screenshot%202026-04-29%20at%2018.58.26.png)
 
-Global Health Insights
+Global Health Insights 2008
 
 ![image alt](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/051752d6a57e7f37f2bd0bb8570ee4c8a6f0d90e/Screenshot%202026-04-29%20at%2023.11.56.png)
 
