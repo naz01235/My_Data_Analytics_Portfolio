@@ -4,5 +4,6 @@ I'm an aspiring Data Analyst with skills in Python, SQL, Excel, Power BI, Tablea
 
 Product Sales Analysis
 
-https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/main/Screenshot%202026-04-29%20at%2017.50.40.png?raw=true
+[https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/main/Screenshot%202026-04-29%20at%2017.50.40.png?raw=true
 
+](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/dfa16206196e1933c808e2d78a26287001498422/Screenshot%202026-04-29%20at%2017.50.40.png)
