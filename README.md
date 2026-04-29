@@ -10,3 +10,4 @@ Product Sales Analysis
 ![image alt](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/5debabc22deb601c75204b711039626de7a9a0be/Screenshot%202026-04-29%20at%2017.51.08.png)
 
 ![image alt](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/f4ac28a9877b104b09268382422198c50560fa95/Screenshot%202026-04-29%20at%2017.51.14.png)
+
