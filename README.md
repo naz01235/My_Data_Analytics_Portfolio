@@ -14,7 +14,7 @@ Product Sales Analysis in Excel
 
 ![image alt](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/1933aad25307c0af24622b469c6a7887b3755782/Screenshot%202026-04-29%20at%2022.56.07.png)
 
-Global Health Insights 2008 in Tablaeu
+Global Health Insights 2008 in Tableau
 
 ![image alt](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/051752d6a57e7f37f2bd0bb8570ee4c8a6f0d90e/Screenshot%202026-04-29%20at%2023.11.56.png)
 
