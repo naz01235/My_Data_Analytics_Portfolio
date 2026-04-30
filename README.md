@@ -20,6 +20,16 @@ Global Health Insights 2008
 
 ![image alt](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/ff9973123152c9b0ed992c8bac7f82ad4480ce67/Screenshot%202026-04-29%20at%2023.12.47.png)
 
+SQL
+
+![image alt](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/23d7f78f048b7a1e17bd75fd718a728f91761cd2/Screenshot%202026-05-01%20002523.png)
+
+![image alt](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/23d7f78f048b7a1e17bd75fd718a728f91761cd2/Screenshot%202026-05-01%20002626.png)
+
+![image alt](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/23d7f78f048b7a1e17bd75fd718a728f91761cd2/Screenshot%202026-05-01%20002826.png)
+
+![image alt](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/23d7f78f048b7a1e17bd75fd718a728f91761cd2/Screenshot%202026-05-01%20002906.png)
+
 Cleaning Penguin database from null values
 
 ![image alt](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/9a2dd8bb8acd0328c7572c736bc863f508e4c318/Screenshot%202026-04-29%20at%2018.58.17.png)
