@@ -2,7 +2,7 @@ Hi! I'm Naz,
 
 I'm an aspiring Data Analyst with skills in Python, SQL, Excel, Power BI, Tableau and Microsoft Azure and I'm focused on data analysis and visualisation, and insight‑driven decision making. I'm seeking a data analyst role to grow and contribute through real‑world analytics projects.
 
-Product Sales Analysis
+Product Sales Analysis in Excel
 
 ![image alt](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/dfa16206196e1933c808e2d78a26287001498422/Screenshot%202026-04-29%20at%2017.50.40.png)
 
@@ -14,11 +14,19 @@ Product Sales Analysis
 
 ![image alt](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/1933aad25307c0af24622b469c6a7887b3755782/Screenshot%202026-04-29%20at%2022.56.07.png)
 
-Global Health Insights 2008
+Global Health Insights 2008 in Tablaeu
 
 ![image alt](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/051752d6a57e7f37f2bd0bb8570ee4c8a6f0d90e/Screenshot%202026-04-29%20at%2023.11.56.png)
 
 ![image alt](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/ff9973123152c9b0ed992c8bac7f82ad4480ce67/Screenshot%202026-04-29%20at%2023.12.47.png)
+
+Power BI
+
+![image alt](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/07c576b67e93e44b1e710700a0ad680e6a923398/Screenshot%202026-05-01%20at%2000.45.02.png)
+
+![image alt](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/07c576b67e93e44b1e710700a0ad680e6a923398/Screenshot%202026-05-01%20at%2000.46.35.png)
+
+![image alt](https://github.com/naz01235/My_Data_Analytics_Portfolio/blob/07c576b67e93e44b1e710700a0ad680e6a923398/Screenshot%202026-05-01%20at%2000.47.37.png)
 
 SQL
 
