@@ -1,6 +1,6 @@
 Hi! I'm Naz,   
 
-skills in Python, SQL, Excel, Power BI, Tableau and Microsoft Azure.
+Skills in Python, SQL, Excel, Power BI, Tableau and Microsoft Azure.
 
 Product Sales Analysis in Excel
 
